@@ -16,7 +16,7 @@
 
     body, html {
       height: 100%;
-      background: linear-gradient(90deg, #5a99eb 0%, #2459c7 100%);
+      background: linear-gradient(90deg, #2459c7 100%);
       display: flex;
       justify-content: center;
       align-items: flex-start;
