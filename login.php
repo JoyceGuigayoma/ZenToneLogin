@@ -21,6 +21,15 @@
     max-width: 400px;
     margin: 40px auto;
     text-align: center;
+    background: linear-gradient(90deg, #6f9de3 0%, #2f58c3 100%);
+      border-top-left-radius: 60px;
+      border-bottom-left-radius: 60px;
+      width: 350px;
+      padding: 40px 30px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+      min-height: 600px;
+      display: flex;
+      flex-direction: column;
   }
 
   /* Logo (now picture) */
